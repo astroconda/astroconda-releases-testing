@@ -11,8 +11,6 @@ dependencies:
 - cfitsio=4.2.0=hd56cc12_0
 - fitsverify=4.20=h2e19f50_4
 - hstcal=2.7.4=hc7faeb7_3
-- hdf5
-- pkg-config
 - krb5=1.20.1=h049b76e_0
 - libcurl=7.87.0=h6df9250_0
 - libcxx=14.0.6=hccf4f1f_0
